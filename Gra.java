@@ -17,6 +17,7 @@ public class Gra {
 			ilePunktow();
 			wygrany(wyborUzytkownika(),losowanie());		
 		}
+		System.out.println("Brawo! Wygrałeś/Wygrałaś!);
 	}
 	public static void ilePunktow() {
 		System.out.println(" ");
